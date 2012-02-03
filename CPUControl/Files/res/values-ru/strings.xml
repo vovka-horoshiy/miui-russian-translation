@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">CPU Control</string>
+    <string name="btn_apply">Применить</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="txt_wake">С включенным экраном:</string>
+    <string name="txt_sleep">В спящем режиме:</string>
+    <string name="txt_maximum">Максимальная частота</string>
+    <string name="txt_minimum">Минимальная частота</string>
+    <string name="txt_governor">Управление</string>
+    <string name="txt_saveQuestion">Вы уверены, что хотите сохранить настройки?</string>
+    <string name="txt_capsaveQuestion">Внимание!</string>
+    <string name="txt_yes">Да</string>
+    <string name="txt_no">Нет</string>
+    <string name="txt_settingssaved">Настройки сохранены успешно!\nЕсли настройки не сохранились, пожалуйста перезагрузите телефон.</string>
+    <string name="appname_full">Управление процессором</string>
+    <string name="txt_freqwarn">Ваше ядро не поддерживается CPU Control.\nВведите частоты вручную (Через пробел) или удалите CPU Control.</string>
+    <string name="dlg_sorry">Ошибка!</string>
+    <string name="txt_delete">Удалить</string>
+    <string name="txt_manual">Готово</string>
+</resources>
