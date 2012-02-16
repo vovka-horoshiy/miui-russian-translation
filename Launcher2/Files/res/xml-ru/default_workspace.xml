@@ -16,9 +16,10 @@
     <favorite launcher:className="com.android.monitor.MainActivity" launcher:packageName="com.android.monitor" launcher:container="1" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.miui.uac.Su" launcher:packageName="com.miui.uac" launcher:container="1" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.miui.kojancpucontrol.CPUControlActivity" launcher:packageName="com.miui.kojancpucontrol" launcher:container="1" launcher:x="0" launcher:y="0" />
-	<favorite launcher:className="com.liquid.settings.activities.settings" launcher:packageName="com.liquid.settings" launcher:container="1" launcher:x="0" launcher:y="0" />
-	<favorite launcher:className="com.beansoft.quick_reboot.reboot" launcher:packageName="com.beansoft.quick_reboot" launcher:container="1" launcher:x="0" launcher:y="0" />
-	<favorite launcher:className="com.speedsoftware.rootexplorer.RootExplorer" launcher:packageName="com.speedsoftware.rootexplorer" launcher:container="1" launcher:x="0" launcher:y="0" />	
+    <favorite launcher:className="com.liquid.settings.activities.settings" launcher:packageName="com.liquid.settings" launcher:container="1" launcher:x="0" launcher:y="0" />
+    <favorite launcher:className="com.beansoft.quick_reboot.reboot" launcher:packageName="com.beansoft.quick_reboot" launcher:container="1" launcher:x="0" launcher:y="0" />
+    <favorite launcher:className="com.speedsoftware.rootexplorer.RootExplorer" launcher:packageName="com.speedsoftware.rootexplorer" launcher:container="1" launcher:x="0" launcher:y="0" />
+    <favorite launcher:className="com.itsme4ucz.screenoff.Sensors" launcher:packageName="com.android.deskclock" launcher:container="1" launcher:x="0" launcher:y="0" />	
     <favorite launcher:className="com.android.thememanager.LocalThemeResourceListActivity" launcher:packageName="com.android.thememanager" launcher:screen="2" launcher:x="3" launcher:y="3" />
     <favorite launcher:className="com.android.vending.AssetBrowserActivity" launcher:packageName="com.android.vending" launcher:screen="3" launcher:x="0" launcher:y="1" />
     <favorite launcher:className="com.google.android.gm.ConversationListActivityGmail" launcher:packageName="com.google.android.gm" launcher:screen="3" launcher:x="1" launcher:y="1" />
@@ -27,7 +28,7 @@
     <favorite launcher:className="com.google.android.talk.SigningInActivity" launcher:packageName="com.google.android.talk" launcher:screen="3" launcher:x="0" launcher:y="2" />
     <favorite launcher:className="com.android.contacts.TwelveKeyDialer" launcher:packageName="com.android.contacts" launcher:container="-101" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.android.contacts.DialtactsContactsEntryActivity" launcher:packageName="com.android.contacts" launcher:container="-101" launcher:x="0" launcher:y="1" />
-	<favorite launcher:className="com.miui.lock.LockActivity" launcher:packageName="com.miui.lock" launcher:container="-101" launcher:x="0" launcher:y="3" />
+    <favorite launcher:className="com.miui.lock.LockActivity" launcher:packageName="com.miui.lock" launcher:container="-101" launcher:x="0" launcher:y="3" />
     <favorite launcher:className="com.android.browser.BrowserActivity" launcher:packageName="com.android.browser" launcher:container="-101" launcher:x="0" launcher:y="4" />
     <favorite launcher:className="com.android.mms.ui.MmsTabActivity" launcher:packageName="com.android.mms" launcher:container="-101" launcher:x="0" launcher:y="5" />
 </favorites>
