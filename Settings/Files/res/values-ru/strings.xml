@@ -424,7 +424,6 @@
   <string name="checkbox_notification_same_as_incoming_call">Использовать громкость звонка для уведомлений</string>
   <string name="incoming_call_volume_title">Мелодия</string>
   <string name="media_volume_title">Мультимедиа</string>
-  <string name="dock_settings">Док-станция</string>
   <string name="dock_settings_title">Настройки док-станции</string>
   <string name="dock_settings_summary">Настройки звука для Док-станции</string>
   <string name="dock_audio_settings_title">Аудио</string>
@@ -448,7 +447,6 @@
   <string name="sim_lock_settings_category">Настроить блокировку</string>
   <string name="sim_lock_settings_title">Блокировка SIM-карты</string>
   <string name="device_info_settings">Состояние телефона</string>
-  <string name="system_update_settings_list_item_title">Обновления системы</string>
   <string name="baseband_version">Версия ПО модуля связи</string>
   <string name="kernel_version">Информация о ядре</string>
   <string name="build_number">Номер сборки</string>
@@ -1146,7 +1144,6 @@
   <string name="default_dialer">Телефон</string>
   <string name="default_sms">Сообщения</string>
   <string name="clear_default">Очистить умолчания</string>
-  <string name="trackball_settings">LED-индикатор</string>
   <string name="led_settings">LED-индикатор</string>
   <string name="led_colors_summary">Цвет LED-уведомления</string>
   <string name="led_frequence_summary">Время между миганием LED</string>

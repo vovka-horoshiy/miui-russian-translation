@@ -667,4 +667,8 @@
   <string name="enter_edit_mode">Удалить</string>
   <string name="allow_3rd_app_listen_phone_event_title">Сторонние приложения</string>
   <string name="allow_3rd_app_listen_phone_event_summary">Запретить сторонним приложениям использовать телефон</string>
+  <string name="dual_microphone_enable_title">Внимание!</string>
+  <string name="dual_microphone_enable_summary_on">Двойной микрофон шумоподавления включен</string>
+  <string name="dual_microphone_enable_summary_off">Двойной микрофон шумоподавления отключен</string>
+  <string name="preferred_network_type_3g_only_warning">Вы выбрали режим только 3G в качестве предпочтительного типа сети, но если ваша SIM-карта не поддерживает 3G, то сеть будет недоступна!</string>
 </resources>

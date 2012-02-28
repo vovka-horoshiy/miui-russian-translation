@@ -949,6 +949,10 @@
     <string name="status_bar_toggle_reboot">Перез-ка</string>
     <string name="status_bar_toggle_shutdown">Выключить</string>
     <string name="status_bar_toggle_privacy_mode">Гостевой режим</string>
+	<string name="status_bar_toggle_screenshot">Скриншот</string>
+    <string name="status_bar_toggle_screen_button">Экранные кнопки</string>
+    <string name="message_screen_button_disabled">Функции кнопок на а нижней части экрана отключены. Вы можете включить их, нажав кнопки \"Домой\" и \"Питание\"</string>
+    <string name="message_screen_button_enabled">Функции кнопок на нижней части экрана включены</string>
     <string name="settings_separator">,</string>
     <string name="incoming_call_vibrate_hint">Входящий звонок</string>
     <string name="notification_vibrate_hint">Уведомление</string>
@@ -962,10 +966,10 @@
     <string name="lockscreen_dial_label">Открыть телефон</string>
     <string name="lockscreen_mms_label">Открыть SMS</string>
     <string name="status_bar_back_to_call">Нажмите, чтобы вернуться к разговору</string>
-    <string name="lockscreen_time_bottom_hint">Сдвиньте, чтобы разблокировать экран</string>
+    <string name="lockscreen_time_bottom_hint">Сдвиньте для разблокировки</string>
     <string name="lockscreen_call_bottom_hint">Сдвиньте, чтобы открыть журнал вызовов</string>
     <string name="lockscreen_sms_bottom_hint">Сдвиньте, чтобы открыть сообщения</string>
-    <string name="lockscreen_unlock_hint">Сдвиньте для разблокировки</string>
+    <string name="lockscreen_unlock_hint">Сдвиньте, чтобы разблокировать экран</string>
     <string name="unknown">Неизвестно</string>
     <string name="private_num">Частный номер</string>
     <string name="payphone">Таксофон</string>

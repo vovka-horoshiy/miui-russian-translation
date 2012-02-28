@@ -35,4 +35,6 @@
 	<string name="user_guide_for_call">Вернуться к телефонному разговору можно, перетащив панель уведомлений вниз и нажав кнопку Текущий вызов</string>
 	<string name="return_to_incall_screen">Нажмите, для возврата к вызову</string>
 	<string name="call_status_dialing">Вызов</string>
-</resources>
+    <string name="dummy_carrier" />
+    <string name="status_bar_time_format_12_no_am">h:mm</string>
+ </resources>
